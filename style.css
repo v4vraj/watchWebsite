@@ -1,0 +1,126 @@
+body{
+    text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "Montserrat";
+}
+p{
+    font-family: "Ubuntu";
+}
+
+
+.title-img{
+    width: 70%;
+    border-radius: 5%;
+}
+.title-heading{
+    font-size: 3.5rem;
+    font-weight: 700;
+    line-height: 1.5;
+}
+.title-heading2{
+    font-size: 3.5rem;
+    font-weight: 300;
+    font-style:normal;
+    
+}
+.title-content{
+    line-height: 1.5;
+}
+.title-btn{
+    margin: 50px 50px 20px 0;
+}
+#title .container-fluid{
+    text-align: left;
+    padding: 1.5% 7% 10%;
+}
+
+.container-fluid{
+    padding: 7% 15%;
+}
+/*navbar*/
+.navbar{
+    margin-bottom: 2rem;
+}
+.nav-item{
+    padding: 0 16px;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-weight: bold;
+    font-size: 2.5rem;
+  }
+  
+.nav-links {
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+  }
+
+
+.watch-img{
+    width: 30%;
+}
+
+.pro-img{
+    width: 200px;
+}
+.card{
+    margin: 5% 5% 5% 8.5%;
+
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 30px;
+    width: 30px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.about-image{
+    width: 75%;
+}
+.about-title{
+    font-size: 2.5rem;
+    font-weight: 700;
+    line-height: 1.5;
+    text-align: left;
+}
+.about-content{
+    text-align: left;
+}
+
+
+.colored-section{
+    background-color: #F5F5F5;
+}
+
+#sale .container-fluid{
+    padding: 5% 15%;
+}
+
+
+
+#sale{
+    position: relative;
+    margin: 0 150px ;
+}
+
+.sale-img{
+    width: 400px;
+    position: absolute;
+    bottom: 50px;
+    left: 750px;
+}
+#sale{
+    background-color: #FFDAB9;
+}
+.sale-title{
+    text-align: left;
+}
+.sale-content{
+    text-align: left;
+}
